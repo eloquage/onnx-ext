@@ -1,0 +1,17 @@
+{
+    "name": "eloquage/onnx-ext",
+    "description": "Optional PIE-compatible TypePHP native extension for eloquage/onnx.",
+    "type": "php-ext",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3"
+    },
+    "php-ext": {
+        "extension-name": "eloquage_onnx"
+    },
+    "homepage": "https://github.com/eloquage/onnx-ext",
+    "support": {
+        "source": "https://github.com/eloquage/onnx-ext"
+    }
+}
+
